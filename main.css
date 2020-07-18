@@ -1,0 +1,6 @@
+div {
+    border :1px solid;
+    width : 200px;
+    height: 100px;
+    background: linear-gradient( to bottom, blue 50%, yellow 50%);
+}
